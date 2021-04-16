@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amutha_portfolio/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/amutha_portfolio/static/js/main.5bd7f855.chunk.js",
+    "main.js.map": "/amutha_portfolio/static/js/main.5bd7f855.chunk.js.map",
+    "runtime-main.js": "/amutha_portfolio/static/js/runtime-main.873c77f3.js",
+    "runtime-main.js.map": "/amutha_portfolio/static/js/runtime-main.873c77f3.js.map",
+    "static/js/2.d7e7e64d.chunk.js": "/amutha_portfolio/static/js/2.d7e7e64d.chunk.js",
+    "static/js/2.d7e7e64d.chunk.js.map": "/amutha_portfolio/static/js/2.d7e7e64d.chunk.js.map",
+    "static/js/3.7cfc2c37.chunk.js": "/amutha_portfolio/static/js/3.7cfc2c37.chunk.js",
+    "static/js/3.7cfc2c37.chunk.js.map": "/amutha_portfolio/static/js/3.7cfc2c37.chunk.js.map",
+    "index.html": "/amutha_portfolio/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/amutha_portfolio/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.d7e7e64d.chunk.js.LICENSE.txt": "/amutha_portfolio/static/js/2.d7e7e64d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.873c77f3.js",
+    "static/js/2.d7e7e64d.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.5bd7f855.chunk.js"
+  ]
+}
